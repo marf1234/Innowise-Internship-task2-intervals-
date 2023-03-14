@@ -1,2 +1,2 @@
 # Innowise-Internship-task2-intervals-
-Intervals Test Task. Applied Music Theory
+com.innowise.Intervals Test Task. Applied Music Theory

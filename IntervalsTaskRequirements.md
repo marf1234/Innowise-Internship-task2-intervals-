@@ -1,4 +1,4 @@
-## Intervals Test Task
+## com.innowise.Intervals Test Task
 
 ### Applied Music Theory
 
@@ -63,7 +63,7 @@ Now count semitones: from Fb to G is 3 semitones. This is way too much, we need 
 **At m2 distance from Fb is the note Gbb**. <br>
 
 
-**Intervals names, quality, and quantity** <br>
+**com.innowise.Intervals names, quality, and quantity** <br>
 m2 - Minor Second - 1 semitone, 2 degrees <br>
 M2 - Major Second - 2 semitones, 2 degrees <br>
 m3 - Minor Third - 3 semitones, 3 degrees <br>
@@ -129,7 +129,7 @@ Cbb Cb C C# C## Dbb Db D D# D## Ebb Eb E E# E## Fbb Fb F F# F## Gbb Gb G G# G## 
 ### Language Specific Requirements
 You 'MUST' use predefined files and functions. **DO NOT CHANGE FILE NAME AND FUNCTIONS NAMES AND PARAMETERS**. <br>
 
-Class Name: `Intervals` <br>
+Class Name: `com.innowise.Intervals` <br>
 Functions `intervalIdentification` and `intervalConstruction` `MUST` be static <br>
 Do not add packages <br>
 Java Version: 14 and older <br>
